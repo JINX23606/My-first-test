@@ -3,10 +3,10 @@ from openpyxl import Workbook
 
 db = mysql.connector.connect(
     host ='localhost',
-    port = 3306,
-    user = 'root',
-    password = 'Bellic4825550100#',
-    database = 'ink_want_to_buy'
+    port = ,
+    user = '',
+    password = '',
+    database = ''
 )
 
 cursor =db.cursor()
