@@ -12,9 +12,9 @@ for row in sheet.iter_rows(min_row=2,values_only=True):
 #database
 db = mysql.connector.connect(
     host ='localhost',
-    port = 3306,
-    user = 'root',
-    password = 'Bellic4825550100#',
+    port = ,
+    user = '',
+    password = '',
     database = 'ink_want_to_buy'
 )
 
